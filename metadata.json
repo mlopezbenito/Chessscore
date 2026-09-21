@@ -1,0 +1,6 @@
+{
+  "name": "ChessScore - Live Chess Scores & Tracker",
+  "description": "Plataforma en directo de resultados, partidas y estadísticas de ajedrez estilo SofaScore: tableros en vivo, barra de evaluación de módulo, gráficas de momento, estadísticas H2H y clasificaciones de torneos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
